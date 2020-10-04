@@ -1,0 +1,26 @@
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-green{
+    background-color: greenyellow;
+}
+
+p {
+    margin: 0;
+}
+
+#am > p{
+    padding-top: 12px;
+    text-align: justify;
+}
+
+h1{
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 900;
+}
+
+li{
+    padding-top: 20px;
+}
