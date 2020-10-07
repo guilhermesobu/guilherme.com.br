@@ -1,7 +1,7 @@
-<div class="container py-5 bg-secondary">
-    <div class="row">
+<div class="container py-5">
+    <div class="row rounded bg-white">
 
-        <div class="col rounded pb-4 px-5 bg-white" id="am">
+        <div class="col pb-4 px-5" id="am">
             <p>
                 <h1>Quem sou</h1>
             </p>

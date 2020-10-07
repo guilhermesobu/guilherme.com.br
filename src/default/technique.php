@@ -1,8 +1,8 @@
-<div class="container">
-    <div class="row">
+<div class="container py-5">
+    <div class="row rounded bg-white">
 
 
-        <div class="col rounded pb-4 px-5 bg-white" id="am">
+        <div class="col pb-4 px-5" id="am">
             <p>
                 <h1>Meus conhecimentos</h1>
             </p>

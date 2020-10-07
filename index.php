@@ -3,7 +3,7 @@
 ?>
 
 
-<div class="bg-secondary">
+<div class="">
     <?php 
     
     require 'src/default/header.php';
@@ -14,6 +14,10 @@
 
     //CONHECIMENTOS
     require 'src/default/technique.php';
+
+
+    //MEUS TRABALHOS
+    require 'src/default/myServices.php';
 
     /**
      * Sobre mim

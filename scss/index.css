@@ -1,9 +1,9 @@
 .bg-purple{
-    background-color: purple;
+    background-color: #800080;
 }
 
 .bg-green{
-    background-color: greenyellow;
+    background-color: #adff2f;
 }
 
 p {
@@ -24,3 +24,15 @@ h1{
 li{
     padding-top: 20px;
 }
+
+.bg-diamond{
+    background-image: url('/src/img/diac_roxo.png');
+}
+
+.header-squares{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url('/src/img/squares.png');
+}
+
+/*    style="background-image: url('./src/img/diac_roxo.png');"
