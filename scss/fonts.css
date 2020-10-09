@@ -1,0 +1,30 @@
+.text-purple{
+    color: #800080;
+}
+.text-green{
+    color: #adff2f;
+}
+
+@font-face{
+    font-family: DavidLibre;
+    src: url(/src/fonts/davidLibre/DavidLibre-Medium.ttf);
+}
+.david{
+    font-family: DavidLibre;
+}
+
+@font-face{
+    font-family: Raleway;
+    src: url(/src/fonts/raleway/static/Raleway-Medium.ttf);
+}
+.raleway{
+    font-family: Raleway !important;
+}
+
+@font-face{
+    font-family: RalewayBold;
+    src: url(/src/fonts/raleway/static/Raleway-ExtraBold.ttf);
+}
+.raleway-bold{
+    font-family: RalewayBold !important;
+}

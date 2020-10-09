@@ -1,11 +1,16 @@
-<div class="container-fluid header-squares bg-purple sticky-top pb-4">
-    <div class="row justify-content-center">
-        <div class="col-fill">
-            <img src="">
-            <h1>Meu palco WEB</h1>
-            <p class="bg-green rounded rounded-pill p-2 text-center">
+<div class="container-fluid bg-purple">
+    <div class="row justify-content-center pt-2">
+
+        <div class="col-lg header-squares-reverse"></div>
+
+        <div class="col-fill px-4">
+            <h1 class="text-center raleway-bold transition fixed-height-50 align-items-center">meu palco web</h1>
+            <p class="bg-green rounded rounded-pill p-2 text-center raleway">
                 Onde você promove seu próprio "show"!
             </p>
         </div>
+
+        <div class="col-md header-squares"></div>
+
     </div>
 </div>

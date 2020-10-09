@@ -1,0 +1,46 @@
+.bg-purple{
+    background-color: #800080;
+}
+.bg-green{
+    background-color: #adff2f;
+}
+
+.bg-diamond{
+    background-image: url('/src/img/diac_roxo.png');
+}
+
+.header-squares{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url('/src/img/squares.png');
+}
+.header-squares-reverse{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url('/src/img/squares.png');
+    transform: scaleX(-1);
+}
+
+.fixed-height-50{
+    height: 50px;
+}
+
+
+
+/* HEADER */
+.transition{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    transition: font-size 0.1s;
+}
+.transition:hover{
+    font-size: 41px;
+    animation-name: transition;
+    animation-duration: 1s;
+}
+@keyframes transition{
+      0% {color: #ffffff;}
+     30% {color: #adff2f;}
+    100% {color: #ffffff;}
+}

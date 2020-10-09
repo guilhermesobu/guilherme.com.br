@@ -3,9 +3,7 @@
 
 
         <div class="col pb-4 px-5" id="am">
-            <p>
-                <h1>Meus conhecimentos</h1>
-            </p>
+            <h1>Meus conhecimentos</h1>
             <p>Estes são os conteúdos que eu aprendi em meus estudos:</p>
             <ul>
 

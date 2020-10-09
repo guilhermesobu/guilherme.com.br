@@ -1,11 +1,3 @@
-.bg-purple{
-    background-color: #800080;
-}
-
-.bg-green{
-    background-color: #adff2f;
-}
-
 p {
     margin: 0;
 }
@@ -16,23 +8,18 @@ p {
 }
 
 h1{
-    font-style: italic;
+    color: #800080;
     font-variant: small-caps;
     font-weight: 900;
+}
+
+#content h1{
+    padding-left: 12px;
+    margin-top: 12px;
+    font-style: italic;
 }
 
 li{
     padding-top: 20px;
 }
 
-.bg-diamond{
-    background-image: url('/src/img/diac_roxo.png');
-}
-
-.header-squares{
-    background-repeat: no-repeat;
-    background-position: right;
-    background-image: url('/src/img/squares.png');
-}
-
-/*    style="background-image: url('./src/img/diac_roxo.png');"

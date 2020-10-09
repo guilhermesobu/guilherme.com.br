@@ -2,9 +2,7 @@
     <div class="row rounded bg-white">
 
         <div class="col pb-4 px-5" id="am">
-            <p>
-                <h1>Quem sou</h1>
-            </p>
+            <h1>Quem sou</h1>
 
             <p>Me chamo Guilherme, sou formado no curso de Análise e Desenvolvimento de Sistemas (ADS) da Faculdade de Tecnologia (FATEC) de Americana/SP desde Dezembro de 2020 e estudo sobre programação desde 2016 por meio de plataformas onlines de ensino. Sou um programador Front-End Junior.</p>
 
