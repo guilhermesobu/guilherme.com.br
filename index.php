@@ -29,6 +29,11 @@ include 'src/default/defaultTop.php';
         //CONHECIMENTOS
         require 'src/default/technique.php';
 
+
+
+        //MEU PROPÓSITO
+        require 'src/default/myPurpose.php';
+        
         //MEUS TRABALHOS
         require 'src/default/myServices.php';
 
