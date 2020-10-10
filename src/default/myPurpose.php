@@ -23,7 +23,7 @@
                 <h1>Visão</h1>
                 <p class="text-center pb-2 pt-0">Minha visão "O meu palco para demonstrar meu serviço, eu sou o astro do show, eu sou o astro dessa página, eu sou o astro desse serviço que EU ofereço".</p>
 
-                <h1>Valor</h1>
+                <h1 class="">Valor</h1>
                 <p class="text-center pb-2 pt-0">Minha visão "O meu palco para demonstrar meu serviço, eu sou o astro do show, eu sou o astro dessa página, eu sou o astro desse serviço que EU ofereço".</p>
             </div>
 
