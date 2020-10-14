@@ -5,12 +5,26 @@
     color: #adff2f;
 }
 
-@font-face{
-    font-family: DavidLibre;
-    src: url(/src/fonts/davidLibre/DavidLibre-Medium.ttf);
+.text-shadow-white{
+    text-shadow: 2px 2px 3px #ffffff;
 }
-.david{
-    font-family: DavidLibre;
+.text-shadow-dark{
+    text-shadow: 2px 2px 3px #000000;
+}
+
+
+h1{
+    font-weight: 900;
+}
+
+
+
+@font-face{
+    font-family: AveriaSerif;
+    src: url(/src/fonts/averia/AveriaSerifLibre-BoldItalic.ttf);
+}
+.averia{
+    font-family: AveriaSerif !important;
 }
 
 @font-face{
@@ -27,4 +41,12 @@
 }
 .raleway-bold{
     font-family: RalewayBold !important;
+}
+
+@font-face{
+    font-family: ArimaMadurai;
+    src: url(/src/fonts/arima/ArimaMadurai-Bold.ttf);
+}
+.arima{
+    font-family: ArimaMadurai !important;
 }

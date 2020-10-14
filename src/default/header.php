@@ -1,5 +1,5 @@
-<div class="container-fluid bg-purple">
-    <div class="row justify-content-center pt-2">
+<div class="container-fluid bg-purple-3">
+    <div class="row justify-content-center py-2">
 
         <div class="col-lg header-squares-reverse d-flex justify-content-center">
         </div>

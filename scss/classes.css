@@ -1,10 +1,3 @@
-.bg-purple{
-    background-color: #800080;
-}
-.bg-green{
-    background-color: #adff2f;
-}
-
 .bg-diamond{
     background-image: url('/src/img/diac_roxo.png');
 }
@@ -27,6 +20,7 @@
 
 
 
+
 /* HEADER */
 .transition{
     color: #ffffff;
@@ -43,4 +37,75 @@
       0% {color: #ffffff;}
      30% {color: #adff2f;}
     100% {color: #ffffff;}
+}
+
+
+
+/* NAVBAR EFFECTS */
+.navfocus{
+    transition: 0.5s;
+}
+.navfocus:hover{
+    background-color: #adff2f;
+    animation-name: navfocus;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    transform: rotateZ(10deg);
+    border-radius: 10px;
+}
+@keyframes navfocus{
+    to {color: #800080;}
+}
+
+
+/* MYSERVICES EFFECT */
+.mschange{
+    animation-name: mschange;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    background-color: #acff2f85;
+
+}
+@keyframes mschange{
+    40% {background-color: #acff2f85;}
+    100% {background-color: #8000803a;}
+}
+
+
+/* BACKGROUNDS COLOR and OPACITYS */
+.bg-purple{
+    background-color: #800080;
+}
+.bg-purple-3{
+    background-color: #800080c5;
+}
+.bg-purple-5{
+    background-color: #80008085;
+}
+.bg-purple-7{
+    background-color: #8000803a;
+}
+
+.bg-green{
+    background-color: #adff2f;
+}
+.bg-green-3{
+    background-color: #acff2fc5;
+}
+.bg-green-5{
+    background-color: #acff2f85;
+}
+.bg-green-7{
+    background-color: #9ea88f3a;
+}
+
+.bg-white-3{
+    background-color: #ffffffc5;
+}
+.bg-white-5{
+    background-color: #ffffff85;
+}
+.bg-white-7{
+    background-color: #ffffff3a;
 }

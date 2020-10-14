@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-purple raleway">
-    <a class="navbar-brand rounded bg-white" href="/">
+<nav class="navbar navbar-expand-lg navbar-dark bg-purple-3 raleway">
+    <a class="navbar-brand rounded bg-white my-2" href="/">
         <span class="text-purple px-2">MPW</span>
     </a>
 
@@ -9,10 +9,10 @@
 
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-link active" href="">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-link" href="">Features</a>
-            <a class="nav-link" href="">Pricing</a>
-            <a class="nav-link" href="">Disabled</a>
+            <a class="nav-link navfocus" href="">Home</a>
+            <a class="nav-link navfocus" href="">Features</a>
+            <a class="nav-link navfocus" href="">Pricing</a>
+            <a class="nav-link navfocus" href="">Disabled</a>
         </div>
     </div>
 

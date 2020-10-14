@@ -2,7 +2,7 @@
 include 'src/default/defaultTop.php';
 ?>
 
-<div class="row-fluid david bg-diamond">
+<div class="row-fluid averia bg-diamond bg-secondary">
 
 <!-- HEADER -->
     <div id="header" class="">

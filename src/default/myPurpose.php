@@ -1,5 +1,5 @@
-<div class="container-fluid py-5 px-0">
-    <div class="row-fluid p-4 bg-green">
+<div class="container-fluid pt-5 px-0">
+    <div class="row-fluid p-4 bg-green-3">
 
         <div class="row">
             <div class="col py-4 px-5" id="am">
@@ -16,7 +16,7 @@
 
             </div>
 
-            <div class="col py-4 px-5 mx-4 bg-white rounded text-center" id="am">
+            <div class="col py-4 px-5 mx-4 bg-white-3 rounded text-center" id="am">
                 <h1>Missão</h1>
                 <p class="text-center pb-2 pt-0">Criar uma vitrine para quem quer expor seus serviços.</p>
 

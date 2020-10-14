@@ -1,8 +1,9 @@
-<div class="container py-5">
-    <div class="row rounded bg-white">
+<div class="container pt-5">
+    <div class="row rounded bg-green-3">
 
-        <div class="col pb-4 px-5" id="am">
-            <h1>Quem sou</h1>
+        <h1 class="ml-4 mt-4 pt-4">Quem sou</h1>
+
+        <div class="col py-4 px-5" id="am">
 
             <p>Me chamo Guilherme, sou formado no curso de Análise e Desenvolvimento de Sistemas (ADS) da Faculdade de Tecnologia (FATEC) de Americana/SP desde Dezembro de 2020 e estudo sobre programação desde 2016 por meio de plataformas onlines de ensino. Sou um programador Front-End Junior.</p>
 
