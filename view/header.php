@@ -9,7 +9,7 @@
             <h1 class="text-center raleway-bold transition fixed-height-50 align-items-center">
                 meu palco web
             </h1>
-            <p class="bg-green rounded rounded-pill p-2 text-center raleway">
+            <p class="bg-green rounded rounded-pill p-2 px-3 text-center raleway">
                 Onde você promove seu próprio "show"!
             </p>
 

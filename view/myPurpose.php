@@ -7,7 +7,7 @@
 
                 <p>Quando pensei no nome <b class="text-purple">Meu Palco WEB</b>, pensei que você (o cliente) podria imaginar algo assim: "<i>Este é meu palco para demonstrar meu serviço, eu sou o astro do show, eu sou o astro dessa página, eu sou o astro desse serviço que EU ofereço</i>".</p>
 
-                <p>E então, <b class="text-purple">a partir da sua ideia</b>, poder criar/desenvolver uma página web de vitrine personalizada e unica somente para você, utilizando as artes/imagens que você me disponibilizar.</p>
+                <p>E então eu poderei, <b class="text-purple">a partir da SUA ideia</b>, criar/desenvolver uma página web de vitrine personalizada e unica somente para você, utilizando as artes/imagens que você me disponibilizar.</p>
 
                 <p>Proporcionando um ambiente perfeito para expor os serviços, como por exemplo, de advogados, fotógrafos, salões de festa, etc.</p>
 

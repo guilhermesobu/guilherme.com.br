@@ -72,6 +72,28 @@
     100% {background-color: #8000803a;}
 }
 
+/* LEFT - RIGHT */
+.left-right1{
+    animation-name: left-right1;
+    animation-duration: 2s;
+    transition-timing-function: ease-out;
+}
+@keyframes left-right1{
+    from {right: 0%; overflow: hidden;}
+    to {right: 100%; overflow: hidden;}
+}
+.left-right2{
+    animation-name: left-righ2;
+    animation-delay: 0.5s;
+    animation-duration: 2s;
+    transition-timing-function: ease-out;
+    transition: opacity 0.5;
+    animation-fill-mode: forwards;
+}
+@keyframes left-right2{
+    from {width: 0px; overflow: hidden; color: #ffffff !important;}
+    to {width: 100%; overflow: hidden; color: #000000 !important;}
+}
 
 /* BACKGROUNDS COLOR and OPACITYS */
 .bg-purple{

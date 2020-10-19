@@ -8,7 +8,7 @@
             <ul>
                 <li>Projetos e páginas</li>
                 <li>Logos e artes</li>
-                <li>Ícones</li>
+                <li>Eu tentei reproduzir alguns ícones comuns, todos os icones foram feitos a partir do zero na extenção .odg de desenho do LibreOffice (Desenho OpenDocument). Dei umas "arranhadas", mas não sou artista, então tive algumas limitações. Note que em nenhum caso a parte central (como por exemplo o F do facebook) do ícone está transparente, eles são "solidos" e o fundo é transparente. Deixarei eles disponíveis para download para quem se interessar por eles. É possível mudar as cores deles da maneira que desejar usando alguns apps existentes por ai!</li>
             </ul>
         </div>
         <div class="col ">

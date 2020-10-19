@@ -1,5 +1,5 @@
 <?php
-include 'src/default/defaultTop.php';
+include 'view/defaultTop.php';
 ?>
 
 <div class="row-fluid averia bg-diamond bg-secondary">
@@ -7,14 +7,14 @@ include 'src/default/defaultTop.php';
 <!-- HEADER -->
     <div id="header" class="">
         <?php
-        require 'src/default/header.php';
+        require 'view/header.php';
         ?>
     </div>
 
 <!-- NAVBAR -->
     <div id="navbar" class="sticky-top">
         <?php
-        require 'src/default/navbar.php';
+        require 'view/navbar.php';
         ?>
     </div>
 
@@ -23,19 +23,28 @@ include 'src/default/defaultTop.php';
 
         <?php
 
+        //HOME
+        require 'view/wellcome.php';
+
+        //NOTICES
+        require 'view/notices.php';
+
         //QUEM SOU
-        require 'src/default/aboutMe.php';
+        require 'view/aboutMe.php';
 
         //CONHECIMENTOS
-        require 'src/default/technique.php';
+        require 'view/technique.php';
+
+        //QUERO CRIAR MEU PALCO
+        require 'view/mpw.php';
 
 
 
         //MEU PROPÓSITO
-        require 'src/default/myPurpose.php';
+        require 'view/myPurpose.php';
         
         //MEUS TRABALHOS
-        require 'src/default/myServices.php';
+        require 'view/myServices.php';
 
         /**
          * Sobre mim
@@ -47,12 +56,12 @@ include 'src/default/defaultTop.php';
          * Meus horários e contato
          */
 
-        require 'src/default/copyright.php';
+        require 'view/copyright.php';
 
         ?>
     </div>
 </div>
 
 <?php
-include 'src/default/defaultBotton.php';
+include 'view/defaultBotton.php';
 ?>
