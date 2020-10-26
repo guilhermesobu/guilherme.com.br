@@ -5,7 +5,7 @@ include 'view/defaultTop.php';
 <div class="row-fluid averia bg-diamond bg-secondary">
 
 <!-- HEADER -->
-    <div id="header" class="">
+    <div id="header">
         <?php
         require 'view/header.php';
         ?>

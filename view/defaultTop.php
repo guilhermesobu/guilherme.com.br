@@ -8,6 +8,8 @@
         <link rel="stylesheet" href="/scss/classes.css">
         <link rel="shortcut icon" type="/image/x-icon" hef="favicon.ico" />
 
+        <title>Meu Palco WEB</title>
+
         <meta charset='UTF-8'>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     </head>
