@@ -56,12 +56,14 @@ include 'view/defaultTop.php';
          * Meus horários e contato
          */
 
-        require 'view/copyright.php';
+        include 'view/footer.php';
 
         ?>
     </div>
 </div>
 
 <?php
+
+
 include 'view/defaultBotton.php';
 ?>

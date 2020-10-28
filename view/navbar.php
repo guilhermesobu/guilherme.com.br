@@ -8,11 +8,12 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
+        <div class="navbar-nav justify-content-between w-100">
             <a class="nav-link navfocus" href="">Home</a>
-            <a class="nav-link navfocus" href="">Features</a>
-            <a class="nav-link navfocus" href="">Pricing</a>
-            <a class="nav-link navfocus" href="">Disabled</a>
+            <a class="nav-link navfocus" href="">Quer criar seu palco?</a>
+            <a class="nav-link navfocus" href="">Serviços realizados</a>
+            <a class="nav-link navfocus" href="">Sobre mim</a>
+            <a class="nav-link navfocus" href="">Contato</a>
         </div>
     </div>
 
