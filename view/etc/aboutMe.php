@@ -1,3 +1,7 @@
+<?php 
+include '../defaultTop.php'; 
+?>
+
 <div class="container pt-5">
     <div class="row rounded bg-green-3">
 
@@ -20,3 +24,12 @@
 
     </div>
 </div>
+
+<?php
+include '../myPurpose.php';
+?>
+
+
+<?php 
+include '../defaultBotton.php'; 
+?>

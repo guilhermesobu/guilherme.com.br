@@ -9,11 +9,11 @@
 
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav justify-content-between w-100">
-            <a class="nav-link navfocus" href="">Home</a>
-            <a class="nav-link navfocus" href="">Quer criar seu palco?</a>
-            <a class="nav-link navfocus" href="">Serviços realizados</a>
-            <a class="nav-link navfocus" href="">Sobre mim</a>
-            <a class="nav-link navfocus" href="">Contato</a>
+            <a class="nav-link navfocus" href="/">Home</a>
+            <a class="nav-link navfocus" href="/view/etc/mpw.php">Quer criar seu palco?</a>
+            <a class="nav-link navfocus" href="/view/etc/myServices.php">Serviços realizados</a>
+            <a class="nav-link navfocus" href="/view/etc/aboutMe.php">Sobre mim</a>
+            <a class="nav-link navfocus" href="/view/etc/contact.php">Contato</a>
         </div>
     </div>
 
