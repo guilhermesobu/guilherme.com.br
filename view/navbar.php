@@ -14,6 +14,7 @@
             <a class="nav-link navfocus" href="/view/etc/myServices.php">Serviços realizados</a>
             <a class="nav-link navfocus" href="/view/etc/aboutMe.php">Sobre mim</a>
             <a class="nav-link navfocus" href="/view/etc/contact.php">Contato</a>
+            <a class="nav-link navfocus" href="/view/rpg/index.php">RPGzinho</a>
         </div>
     </div>
 

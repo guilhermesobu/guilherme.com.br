@@ -1,3 +1,7 @@
+<?php 
+include '../defaultTop.php';
+?>
+
 <div class="container-fluid bg-white py-4">
     <div class="row justify-content-center">
         <div class="col-8">
@@ -24,3 +28,7 @@
     </div>
 
 </div>
+
+<?php 
+include '../defaultBotton.php';
+?>
